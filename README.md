@@ -413,3 +413,18 @@ Fondo con **degradado lineal** en tonos oscuros (`#0f2027`, `#203a43`, `#2c5364`
   - `new-btn`: color verde (`#10b981`), con texto en blanco y fuente en **negrita**.
 
 📄 Este archivo CSS permite que la aplicación tenga una apariencia moderna, profesional y visualmente atractiva.
+
+## 🚀 Modo de Ejecución
+
+## 🧭 Compartir la pagina web
+
+1. Abrimos la ubicación de nuestro proyecto
+2. En la ruta de la gestión de las api, abrimos la terminal.
+3. Limpiamos los archivos generados durante la compilación: dotnet clean
+4. Ejecutar un proyecto .NET (en este caso, una API) especificando la URL
+Para ello usamos: dotnet run --project GestionCursosAPI.csproj --urls
+http://0.0.0.0:5145
+5. Usamos nuestra ip wifi: ipconfig
+6. Pagina web generada: http://10.79.4.36:5145/#
+
+
